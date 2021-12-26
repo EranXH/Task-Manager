@@ -1,1 +1,1 @@
-Function LOG:
+creating an empty file to create the folder
