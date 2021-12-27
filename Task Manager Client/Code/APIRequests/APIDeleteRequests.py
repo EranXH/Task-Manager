@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 from icecream import ic
 
-ServerIP = "45.32.144.224:8000"
+ServerIP = "ServerIP:Port"
 
 # requests to delete a task from the server - happend on clicking the delete button
 def RDelete_Task(public_or_private: str, task_name: str, task_id: int, user_id: str) -> dict:
