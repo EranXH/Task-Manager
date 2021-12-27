@@ -2,7 +2,7 @@ import requests
 
 # TODO: need to think about it - get requse another prosse or thred
 
-ServerIP = "45.32.144.224:8000"
+ServerIP = "ServerIP:Port"
 
 
 # get user information given his user_name_hash and password_hash from fastapi
