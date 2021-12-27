@@ -3,7 +3,7 @@ import queue
 
 from icecream import ic
 
-ServerIP = "45.32.144.224:8000"
+ServerIP = "ServerIP:Port"
 
 
 # used from the updated pusher tread - get updates from the server and push them to the user
